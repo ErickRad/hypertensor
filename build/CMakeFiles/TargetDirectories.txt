@@ -1,0 +1,6 @@
+/home/demetec/Documentos/Radmann/HyperTensor/build/CMakeFiles/hypertensor_lib.dir
+/home/demetec/Documentos/Radmann/HyperTensor/build/CMakeFiles/hypertensor.dir
+/home/demetec/Documentos/Radmann/HyperTensor/build/CMakeFiles/edit_cache.dir
+/home/demetec/Documentos/Radmann/HyperTensor/build/CMakeFiles/rebuild_cache.dir
+/home/demetec/Documentos/Radmann/HyperTensor/build/thirdParty/pybind11/CMakeFiles/edit_cache.dir
+/home/demetec/Documentos/Radmann/HyperTensor/build/thirdParty/pybind11/CMakeFiles/rebuild_cache.dir

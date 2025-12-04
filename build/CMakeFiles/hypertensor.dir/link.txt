@@ -1,0 +1,1 @@
+/usr/bin/g++-12 -fPIC  -O3 -march=native -fopenmp -shared  -o hypertensor.cpython-312-x86_64-linux-gnu.so CMakeFiles/hypertensor.dir/python/bindings/pybind.cpp.o CMakeFiles/hypertensor.dir/cmake_device_link.o   -L/usr/lib/x86_64-linux-gnu/stubs  libhypertensor_lib.a -lcudadevrt -lcudart_static -lrt -lpthread -ldl 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhypertensor_lib.a CMakeFiles/hypertensor_lib.dir/src/allocator.cpp.o CMakeFiles/hypertensor_lib.dir/src/memoryPool.cpp.o CMakeFiles/hypertensor_lib.dir/src/tensor.cpp.o CMakeFiles/hypertensor_lib.dir/src/cudaBackend.cu.o
+/usr/bin/ranlib libhypertensor_lib.a
