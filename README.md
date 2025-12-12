@@ -1,7 +1,7 @@
 # HyperTensor 🚀
 
 > **Next-generation high-performance tensor library**  
-> Seamless Python integration. GPU-ready. NumPy & PyTorch-inspired.
+> Seamless Python integration. GPU-ready. Faster than Numpy.
 
 ---
 
