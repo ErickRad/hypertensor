@@ -1,6 +1,6 @@
 # HyperTensor 🚀
 
-> **Next-generation high-performance tensor library**  
+> High-performance tensor library optimized for NVIDIA CUDA compatible platforms, while also supporting other embedded systems such as Raspberry Pi and general-purpose hardware.
 > Seamless Python integration. GPU-ready. Faster than Numpy.
 
 ---
