@@ -1,6 +1,7 @@
 # HyperTensor
 
-> High-performance tensor library optimized for NVIDIA CUDA compatible platforms, while also supporting other embedded systems such as Raspberry Pi and general-purpose hardware using NNCN Session Runtime.  
+> High-performance tensor library optimized for NVIDIA CUDA compatible platforms, while also supporting other embedded systems such as Raspberry Pi and general-purpose hardware using NNCN Session Runtime.
+> 
 > Seamless Python integration. GPU-ready. Faster than Numpy.
 
 ---
